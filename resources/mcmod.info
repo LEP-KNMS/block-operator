@@ -1,0 +1,16 @@
+[
+{
+  "modid": "blockOperator",
+  "name": "Block Operator",
+  "description": "ProjectRedMove:This mod BlockOperator is the alpha version of RedMove.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kanimiso"],
+  "credits": "",
+  "logoFile": "assets.projectmoving.textures.gui.movecraft.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
